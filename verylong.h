@@ -1,3 +1,11 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <ostream>
+#include <iomanip>
+#include <sstream>
+#include <algorithm>
+
 class verylong {
 public:
 	verylong() : is_negative(false), is_set(false) { }
